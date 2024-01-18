@@ -1,16 +1,6 @@
 # plus_and_minus
 
-A new Flutter project.
+This app is using provider for state managent, when the counter equal to zero, the minus button disabled. And when the counter is equal to twenty, the plus button is disabled.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demo app video :
+https://jam.dev/c/4ea76a03-8920-46d6-b004-788851a38a7f
